@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "avx2_vector.h": "c",
+        "x86intrin.h": "c",
+        "immintrin.h": "c"
+    }
+}
